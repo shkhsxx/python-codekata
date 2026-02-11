@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120803
 # 알고리즘: 기초
 # 작성자: 김혜수
-# 작성일: 2026. 02. 11. 23:51:02
+# 작성일: 2026. 02. 12. 00:04:27
 
 def solution(num1, num2):
     return num1 - num2
