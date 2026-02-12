@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120807
 # 알고리즘: 기초
 # 작성자: 김혜수
-# 작성일: 2026. 02. 12. 00:09:02
+# 작성일: 2026. 02. 12. 17:54:11
 
 def solution(num1, num2):
     if num1 == num2:
