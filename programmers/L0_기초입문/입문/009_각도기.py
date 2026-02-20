@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120829
 # 알고리즘: 기초
 # 작성자: 김혜수
-# 작성일: 2026. 02. 20. 12:37:59
+# 작성일: 2026. 02. 20. 18:05:50
 
 def solution(angle):
     if angle < 90 :
